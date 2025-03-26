@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MF_SecureApi.props" />
+</Project>

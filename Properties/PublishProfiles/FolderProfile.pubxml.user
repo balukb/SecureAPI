@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Balu\Projects\Learn\C#\WebAPI\MF_SecureApi\MF_SecureApi\MF_SecureApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-03-25T11:09:30.4848670Z||;True|2025-03-25T16:18:31.4481014+05:30||;True|2025-03-24T12:01:21.8588657+05:30||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=10.20.40.100%3bDatabase=MFSecureAPI%3bUser Id=sa%3bPassword=Acc3yr%24an%3bTrustServerCertificate=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MF_SecureApi.Data.AppDbContext">
+      <Value>Server=10.20.40.100%3bDatabase=MFSecureAPI%3bUser Id=sa%3bPassword=Acc3yr%24an%3bTrustServerCertificate=true%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

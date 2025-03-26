@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ITDyrUrWMN8PDHXdGn4MDOMHWjbaLq6w3OmM1DyxC5Y=",
+  "Source": "MF_SecureApi",
+  "BasePath": "_content/MF_SecureApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

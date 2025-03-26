@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "trHXZpsLAIE5tGRXAL3CcIszgm9ZAHwvwPf0aZ1QWSc=",
+  "Source": "MF_SecureApi",
+  "BasePath": "_content/MF_SecureApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

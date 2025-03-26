@@ -1,0 +1,6 @@
+@MF_SecureApi_HostAddress = http://localhost:5152
+
+GET {{MF_SecureApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
